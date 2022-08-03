@@ -1,10 +1,10 @@
 ### My Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singularitti&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singularitti&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularitti&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularitti&langs_count=8&layout=compact" />
 </a>
 
 ### Technologies & Tools :wrench:
@@ -17,3 +17,7 @@
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
+
+### Pins:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=Spglib.jl)](https://github.com/singularitti/Spglib.jl)
