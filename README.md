@@ -1,11 +1,21 @@
 ### My Status
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singularitti&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularitti&langs_count=8&layout=compact" />
-</a>
+<table border="0">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=singularitti&show_icons=true&theme=gruvbox" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularitti&langs_count=8&layout=compact" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ### Technologies & Tools :wrench:
 
