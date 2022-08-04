@@ -28,6 +28,35 @@
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
 
-### Pins:
+### Extra Pins :pushpin:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=Spglib.jl)](https://github.com/singularitti/Spglib.jl)
+<table border="0">
+    <tr>
+        <td>
+            <a href="https://github.com/singularitti/Spglib.jl">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=Spglib.jl" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/MineralsCloud/qe-demystify">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=qe-demystify" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=SimpleWorkflows.jl" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/MineralsCloud/CrystallographyBase.jl">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=CrystallographyBase.jl&show_owner=false" />
+            </a>
+        </td>
+    </tr>
+</table>
