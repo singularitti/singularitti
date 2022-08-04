@@ -1,6 +1,6 @@
 ### My Status
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,7 +30,7 @@
 
 ### Extra Pins :pushpin:
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
             <a href="https://github.com/singularitti/Spglib.jl">
