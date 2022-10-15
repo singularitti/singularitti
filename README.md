@@ -18,6 +18,10 @@
 </table>
 
 <div align='center'>
+    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/>
+</div>
+
+<div align='center'>
     <img src="./profile-3d-contrib/profile-season-animate.svg"/>
 </div>
 
