@@ -17,6 +17,10 @@
     </tr>
 </table>
 
+<div align='center'>
+    <img src="./profile-3d-contrib/profile-season-animate.svg"/>
+</div>
+
 ### Technologies & Tools :wrench:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
