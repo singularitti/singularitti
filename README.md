@@ -1,17 +1,38 @@
 ### My Status
 
+<div align='center'>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img align="center"
+            src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/0-profile-details.svg" />
+    </a>
+</div>
+
 <table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
+            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=singularitti&show_icons=true&theme=gruvbox" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/1-repos-per-language.svg" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
+            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularitti&langs_count=8&layout=compact" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/2-most-commit-language.svg" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/3-stats.svg" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/4-productive-time.svg" />
             </a>
         </td>
     </tr>
