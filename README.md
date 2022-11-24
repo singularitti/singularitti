@@ -85,7 +85,21 @@
         <td>
             <a href="https://github.com/MineralsCloud/CrystallographyBase.jl">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=CrystallographyBase.jl&show_owner=false" />
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=CrystallographyBase.jl" />
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://github.com/singularitti/LaTeXFigures.jl">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=LaTeXFigures.jl" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/singularitti/MappingUtils.jl">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=MappingUtils.jl" />
             </a>
         </td>
     </tr>
