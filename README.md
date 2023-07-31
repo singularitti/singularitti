@@ -12,13 +12,13 @@
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/2-most-commit-language.svg" />
+                    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=singularitti&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=solarized-light" />
             </a>
         </td>
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/3-stats.svg" />
+                    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=singularitti&show_icons=true&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=solarized-light" />
             </a>
         </td>
     </tr>
