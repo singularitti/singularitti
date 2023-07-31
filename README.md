@@ -28,10 +28,6 @@
     <img src="https://raw.githubusercontent.com/singularitti/singularitti/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-<div align='center'>
-    <img src="./profile-3d-contrib/profile-season-animate.svg"/>
-</div>
-
 ### Technologies & Tools :wrench:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
