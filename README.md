@@ -3,7 +3,7 @@
 <div align='center'>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img align="center"
-            src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/0-profile-details.svg" />
+            src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/0-profile-details.svg" />
     </a>
 </div>
 
@@ -12,13 +12,13 @@
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/1-repos-per-language.svg" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/1-repos-per-language.svg" />
             </a>
         </td>
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/2-most-commit-language.svg" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/2-most-commit-language.svg" />
             </a>
         </td>
     </tr>
@@ -26,13 +26,13 @@
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/3-stats.svg" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/3-stats.svg" />
             </a>
         </td>
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/zenburn/4-productive-time.svg" />
+                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/4-productive-time.svg" />
             </a>
         </td>
     </tr>
