@@ -28,6 +28,12 @@
     <img src="https://raw.githubusercontent.com/singularitti/singularitti/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
+### Achievements
+
+<div align="center">
+    <img  src="https://github-profile-trophy.vercel.app/?username=singularitti&theme=gruvbox&column=4&no-frame=true&no-bg=true&no-frame=true&title=Organizations,Followers,PullRequest,Issue,Repository" width = 1000px/>
+</div>
+
 ### Technologies & Tools :wrench:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
