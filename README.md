@@ -12,27 +12,13 @@
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/1-repos-per-language.svg" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-                <img align="center"
                     src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/2-most-commit-language.svg" />
             </a>
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
                     src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/3-stats.svg" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-                <img align="center"
-                    src="https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/solarized/4-productive-time.svg" />
             </a>
         </td>
     </tr>
