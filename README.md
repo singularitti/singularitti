@@ -71,9 +71,9 @@
             </a>
         </td>
         <td>
-            <a href="https://github.com/MineralsCloud/CrystallographyBase.jl">
+            <a href="https://github.com/MineralsCloud/Crystallography.jl">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=CrystallographyBase.jl" />
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=Crystallography.jl" />
             </a>
         </td>
     </tr>
