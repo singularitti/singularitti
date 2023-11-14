@@ -24,13 +24,13 @@
     </tr>
 </table>
 
-### Achievements
+### Achievements 🏆
 
 <div align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=singularitti&theme=gruvbox&column=4&no-frame=true&no-bg=true&no-frame=true&title=Organizations,Followers,PullRequest,Issue,Repository" width = 1000px/>
 </div>
 
-### Technologies & Tools :wrench:
+### Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
@@ -42,7 +42,13 @@
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 
-### Extra Pins :pushpin:
+### Social 📰
+
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&amp;message=0000-0002-3153-1117&amp;color=green&amp;logo=orcid)](https://orcid.org/0000-0002-3153-1117)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CkFPwccAAAAJ)
+[![X (formerly Twitter) URL](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/QiZhangColumbia)
+
+### Extra Pins 📌
 
 <table style="border-collapse: collapse; border: none;">
     <tr>
