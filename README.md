@@ -24,10 +24,6 @@
     </tr>
 </table>
 
-<div align='center'>
-    <img src="https://raw.githubusercontent.com/singularitti/singularitti/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
 ### Achievements
 
 <div align="center">
