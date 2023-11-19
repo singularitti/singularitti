@@ -50,6 +50,8 @@
 
 ### Extra Pins 📌
 
+Most of my packages are here: https://github.com/MineralsCloud
+
 <table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
