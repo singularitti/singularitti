@@ -2,7 +2,7 @@
 
 [My 2023 highlights](https://year-in-code.com/singularitti) by [Graphite](https://graphite.dev/):
 
-![2023](2023)
+![2023](2023.png)
 
 <div align='center'>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
