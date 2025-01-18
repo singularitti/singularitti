@@ -1,8 +1,8 @@
 ### My Status
 
-[My 2023 highlights](https://year-in-code.com/singularitti) by [Graphite](https://graphite.dev/):
+[My 2024 highlights](https://year-in-code.com/singularitti) by [Graphite](https://graphite.dev/):
 
-![2023](2023.png)
+![2024](2024.png)
 
 <div align='center'>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
