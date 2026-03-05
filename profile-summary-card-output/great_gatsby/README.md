@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
