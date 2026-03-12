@@ -25,26 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/bear/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/bear/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
