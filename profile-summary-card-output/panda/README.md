@@ -22,3 +22,33 @@
 ```
 
     
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/panda/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/panda/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
