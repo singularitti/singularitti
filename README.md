@@ -16,13 +16,13 @@
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=singularitti&layout=compact&langs_count=18&hide_border=true&role=owner&theme=solarized-light" />
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/top-langs/?username=singularitti&layout=compact&langs_count=18&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light" />
             </a>
         </td>
         <td>
             <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
                 <img align="center"
-                    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=singularitti&show_icons=true&hide_border=true&include_all_commits=true&role=owner,organization_member&exclude_repo=github-readme-stats&theme=solarized-light" />
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api?username=singularitti&show_icons=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-stats&theme=solarized-light" />
             </a>
         </td>
     </tr>
@@ -31,7 +31,7 @@
 ### Achievements 🏆
 
 <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=singularitti&theme=gruvbox&column=4&no-frame=true&no-bg=true&no-frame=true&title=Organizations,Followers,PullRequest,Issue,Repository" width = 1000px/>
+    <img  src="https://github-profile-trophy-gules-seven.vercel.app/?username=singularitti&theme=gruvbox&column=4&no-frame=true&no-bg=true&no-frame=true&title=Organizations,Followers,PullRequest,Issue,Repository" width = 1000px/>
 </div>
 
 ### Technologies & Tools 🔧
