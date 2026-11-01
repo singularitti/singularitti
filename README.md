@@ -60,42 +60,42 @@ Most of my packages are here: https://github.com/MineralsCloud
     <tr>
         <td>
             <a href="https://github.com/singularitti/Spglib.jl">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=Spglib.jl" />
+                <img align="center" alt="Spglib.jl repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=singularitti&repo=Spglib.jl" />
             </a>
         </td>
         <td>
             <a href="https://github.com/MineralsCloud/qe-demystify">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=qe-demystify" />
+                <img align="center" alt="qe-demystify repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=MineralsCloud&repo=qe-demystify" />
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=SimpleWorkflows.jl" />
+                <img align="center" alt="SimpleWorkflows.jl repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=MineralsCloud&repo=SimpleWorkflows.jl" />
             </a>
         </td>
         <td>
             <a href="https://github.com/MineralsCloud/Crystallography.jl">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=MineralsCloud&repo=Crystallography.jl" />
+                <img align="center" alt="Crystallography.jl repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=MineralsCloud&repo=Crystallography.jl" />
             </a>
         </td>
     </tr>
         <tr>
         <td>
             <a href="https://github.com/singularitti/LaTeXFigures.jl">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=LaTeXFigures.jl" />
+                <img align="center" alt="LaTeXFigures.jl repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=singularitti&repo=LaTeXFigures.jl" />
             </a>
         </td>
         <td>
             <a href="https://github.com/singularitti/MappingUtils.jl">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=singularitti&repo=MappingUtils.jl" />
+                <img align="center" alt="MappingUtils.jl repository card"
+                    src="https://github-stats-extended-smoky-rho.vercel.app/api/pin/?username=singularitti&repo=MappingUtils.jl" />
             </a>
         </td>
     </tr>
