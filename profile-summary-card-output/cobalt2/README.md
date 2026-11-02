@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
