@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/singularitti/singularitti/main/profile-summary-card-output/blueberry/4-productive-time.svg)
+```
+
+    
